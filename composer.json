@@ -1,0 +1,15 @@
+{
+    "name": "Zammad Ticketer",
+    "description": "Zammad integration",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Pekka Korolainen"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
